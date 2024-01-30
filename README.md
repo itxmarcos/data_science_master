@@ -6,19 +6,26 @@ This repository is a comprehensive archive of the coursework, project assignment
 
 ## Structure
 
-Each branch of this repository corresponds to a different course within the program. Contents within each branch include lecture notes, datasets, code snippets, and project reports.
+Each branch of this repository corresponds to a different course within the program.
 
-### Core Subjects
+## Core Subjects
 
-- **Fundamentals of Data Science** (`Fundamentos de la ciencia de datos`)
-- **Data Typology and Lifecycle** (`Tipología y ciclo de vida de los datos`)
-- **Non-Relational Database Architectures** (`Arquitecturas de bases de datos no relacionales`)
-- **Statistical Analysis** (`Análisis estadístico`)
-- **Machine Learning** (`Aprendizaje automático`)
-- **Data Visualization** (`Visualización de datos`)
-- **Master's Thesis** (`Trabajo final de máster`)
+- **Data Mining** - _Minería de Datos_
+- **Design and Use of Analytical Databases** - _Diseño y Uso de Bases de Datos Analíticas_
+- **Fundamentals of Data Science** - _Fundamentos de la Ciencia de Datos_
+- **Data Types and Life Cycles** - _Tipología y Ciclo de Vida de los Datos_
+- **Non-traditional Database Architectures** - _Arquitecturas de Bases de Datos no Tradicionales_
+- **Advanced Statistics** - _Estadística Avanzada_
+- **Advanced Data Mining Models** - _Modelos Avanzados de Minería de Datos_
+- **Data Visualization** - _Visualización de Datos_
 
-### Elective Subjects
+## Elective Subjects
 
-- **Deep Learning** (`Deep learning`)
-- **Text Analysis** (`Análisis de textos`)
+- **Deep Learning** - _Deep Learning_
+- **Sentiment Analysis and Texts** - _Análisis de Sentimientos y Textos_
+
+## Collaboration
+While this repository is primarily for personal use and reflection, collaboration is welcome! If you're also a student or an alumnus of the UOC Data Science Master's program, feel free to fork this repository and use it as a template for your own work. However, I urge you to use this resource ethically and responsibly. It's designed to complement your learning journey, not to replace the invaluable process of engaging deeply with the materials (If you don´t know what I meant, plagiarism).
+
+## Contact
+If you have any questions or would like to discuss the content further, please open an issue in this repository and I will get back to you as soon as possible.
