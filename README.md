@@ -8,7 +8,7 @@ This repository is a comprehensive archive of the coursework, project assignment
 
 Each branch of this repository corresponds to a different course within the program.
 
-## Core Subjects
+### Core Subjects
 
 - **Data Mining** - _Minería de Datos_
 - **Design and Use of Analytical Databases** - _Diseño y Uso de Bases de Datos Analíticas_
@@ -19,7 +19,7 @@ Each branch of this repository corresponds to a different course within the prog
 - **Advanced Data Mining Models** - _Modelos Avanzados de Minería de Datos_
 - **Data Visualization** - _Visualización de Datos_
 
-## Elective Subjects
+### Elective Subjects
 
 - **Deep Learning** - _Deep Learning_
 - **Sentiment Analysis and Texts** - _Análisis de Sentimientos y Textos_
