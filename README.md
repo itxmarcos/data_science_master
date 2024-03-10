@@ -1,31 +1,26 @@
-# UOC Data Science Master's Degree Repository
+# Data Mining
 
-## Overview
+## PEC1
+In this practice, the initial phases of a data mining project are tackled. The goal is to achieve a comprehensive understanding of the dataset that will later serve as the foundation for model construction. Fundamental data handling tasks like feature selection, data preparation for algorithm consumption will be performed, and aim to extract as much knowledge as possible from the data.
 
-This repository is a comprehensive archive of the coursework, project assignments, and study materials completed throughout the [University Data Science Master's Degree program](https://www.uoc.edu/es/estudios/masters/master-universitario-data-science#study-plan) at Universitat Oberta de Catalunya (UOC). It is didactically organized to reflect the learning journey and achievements within each course of the program.
+#### Initial Data Handling
+- The dataset is loaded, filtered, the initial structure is verified, and the description of the variables and their types is reviewed.
+- Basic descriptive statistics are computed to summarize the central tendency, dispersion, and shape of the dataset's distribution.
+- Attributes with empty values are handled, employing strategies such as imputation for continuous variables and substitution for categorical variables.
+- Feature engineering: New fields are created, such as discretizing continuous variables into categorical bins using equal-width interval methods and k-means clustering.
+- Variables are scaled to ensure that they contribute equally to the analysis, implementing normalization techniques to adjust the range of data values.
 
-## Structure
+#### Visual Data Analysis
+- Through the use of various plotting techniques, the relationships between different variables is explored to uncover patterns and insights.
+- The search for correlations between variables is undertaken to inform the selection of features for the modeling phase. This involves statistical tests and the generation of correlation matrices.
 
-Each branch of this repository corresponds to a different course within the program.
+#### Concluding Remarks
+Based on the exploratory data analysis (EDA), there are drawn preliminary conclusions about the dataset's characteristics, the quality of the data, and any patterns that have emerged. These findings will guide the subsequent data mining processes.
 
-### Core Subjects
+## PEC2
 
-- **Data Mining** - _Minería de Datos_
-- **Design and Use of Analytical Databases** - _Diseño y Uso de Bases de Datos Analíticas_
-- **Fundamentals of Data Science** - _Fundamentos de la Ciencia de Datos_
-- **Data Types and Life Cycles** - _Tipología y Ciclo de Vida de los Datos_
-- **Non-traditional Database Architectures** - _Arquitecturas de Bases de Datos no Tradicionales_
-- **Advanced Statistics** - _Estadística Avanzada_
-- **Advanced Data Mining Models** - _Modelos Avanzados de Minería de Datos_
-- **Data Visualization** - _Visualización de Datos_
+## PEC3
 
-### Elective Subjects
+## PRA1
 
-- **Deep Learning** - _Deep Learning_
-- **Sentiment Analysis and Texts** - _Análisis de Sentimientos y Textos_
-
-## Collaboration
-While this repository is primarily for personal use and reflection, collaboration is welcome! If you're also a student or an alumnus of the UOC Data Science Master's program, feel free to fork this repository and use it as a template for your own work. However, I urge you to use this resource ethically and responsibly. It's designed to complement your learning journey, not to replace the invaluable process of engaging deeply with the materials (If you don´t know what I meant, plagiarism).
-
-## Contact
-If you have any questions or would like to discuss the content further, please open an issue in this repository and I will get back to you as soon as possible.
+## PRA2
